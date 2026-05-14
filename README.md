@@ -1,16 +1,46 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sarahosodrac/sarahosodrac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sarah Machado 🌙
 
-Here are some ideas to get you started:
+### Full Stack Developer in Progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="<img width="1983" height="793" alt="ChatGPT Image 14 de mai  de 2026, 20_28_37" src="https://github.com/user-attachments/assets/5c5b497b-d8ba-4d9a-95d5-78230ef2c901" />" width="100%"/>
+
+</div>
+
+---
+
+## 💜 Sobre mim
+
+- 💻 Estudando React, C# e APIs
+- 🌙 Apaixonada por tecnologia e design
+- 🚀 Construindo projetos para portfólio
+- ☕ Café + código + criatividade
+
+---
+
+## 🚀 Tecnologias
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,cs,js,html,css,mysql,git,vscode"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![stats](https://github-readme-stats.vercel.app/api?username=sarahosodrac&show_icons=true&theme=tokyonight)
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahosodrac&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ “code. create. repeat.”
+
+</div>
