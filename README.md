@@ -32,8 +32,3 @@
 <p>
   <img src="https://streak-stats.demolab.com?user=sarahosodrac&theme=tokyonight&hide_border=true"/>
 </p>
-<div >
-
-### ✨ “code. create. repeat.”
-
-</div>
