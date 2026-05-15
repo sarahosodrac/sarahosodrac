@@ -14,8 +14,8 @@
 ## 💜 Sobre mim
 
 💻 Estudando Salesforce  
-🌙 Apaixonada por tecnologia e design  
-🚀 Construindo aplicações modernas e criativas  
+🌙 Apaixonada por tecnologia e Treino  
+🚀 Transformando ideias em aplicações  
 ☕ Café + código + criatividade  
 
 </div>
