@@ -29,14 +29,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-
-</div>
-
----
-
-<div align="center">
+<p>
+  <img src="https://streak-stats.demolab.com?user=sarahosodrac&theme=tokyonight&hide_border=true"/>
+</p>
+<div >
 
 ### ✨ “code. create. repeat.”
 
