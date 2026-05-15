@@ -9,13 +9,13 @@
 
 ---
 
-<div align="center">
+<div >
 
 ## 💜 Sobre mim
 
 💻 Estudando Salesforce  
-🌙 Apaixonada por tecnologia e design  
-🚀 Construindo aplicações modernas e criativas  
+🌙 Apaixonada por tecnologia e treino 
+🚀 Transformando ideias 
 ☕ Café + código + criatividade  
 
 </div>
@@ -43,14 +43,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-## 🔥 GitHub Streak
-
-<img src="https://streak-stats.demolab.com?user=sarahosodrac&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-</div>
 
 ---
 
