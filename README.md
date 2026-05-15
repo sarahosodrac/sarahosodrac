@@ -22,7 +22,7 @@
 ## 🚀 Tecnologias
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=angular,python,js,html,css,mysql,git,vscode,php,docker,spotify,cs"/>
+<img src="https://skillicons.dev/icons?i=angular,python,js,html,css,mysql,vscode,php,docker,spotify,cs,dotnet,typescript,cpp,discord"/>
 </p>
 
 ---
