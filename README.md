@@ -9,13 +9,13 @@
 
 ---
 
-<div >
+<div align="left">
 
 ## 💜 Sobre mim
 
 💻 Estudando Salesforce  
-🌙 Apaixonada por tecnologia e treino 
-🚀 Transformando ideias 
+🌙 Apaixonada por tecnologia e design  
+🚀 Construindo aplicações modernas e criativas  
 ☕ Café + código + criatividade  
 
 </div>
