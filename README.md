@@ -4,8 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&color=C792EA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Progress;Angular+%7C+.NET+%7C+Python;Code.+Create.+Repeat."/>
 
-<img src="COLE_AQUI_O_LINK_DO_SEU_BANNER" width="100%"/>
-
+<img width="1983" height="793" alt="ChatGPT Image 14 de mai  de 2026, 20_28_37" src="https://github.com/user-attachments/assets/5c5b497b-d8ba-4d9a-95d5-78230ef2c901" />
 </div>
 
 ---
